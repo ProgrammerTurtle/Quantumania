@@ -5,6 +5,8 @@ description: "A Modernized Quantum Delta."
 created_at: "2025-07-21"
 ---
 
+#### Total Time Spent - 40 Hours 
+
 
 ### July 21, 2025 - 8 hours spent
 
@@ -61,3 +63,12 @@ The bed has a mains silicone heater on it. This will probably become a pcb heate
 With that, the printer was practically done besides a few finishing touches. Basically just giving everything clearance and mounting the endstops. 
 
 <img width="568" height="711" alt="image" src="https://github.com/user-attachments/assets/75f72305-27f9-4deb-a633-f66a1e552fa2" />
+
+### July 31, 2025 - 8 Hours Spent
+
+Today is the last day of highway so I really had to hurry things up. I had been journaling on a text file that isn't on the github as I wanted to keep this project private unil it was done.
+I basically just spent the whole time making/optimizing the BOM, making the GitHub, and generating renders. pretty happy with how this printer turned out for how fast I designed it.
+
+
+
+I spent a lot of time researching and networking with sponsors for this project but I will not be explicitly logging it as it wasn't solely focused on this project. But, I can comfortably say I spent multiple days worth of time doing this witb significantly reduced sleep.
