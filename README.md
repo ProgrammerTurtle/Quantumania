@@ -100,11 +100,11 @@ This project was made for HackClub's Highway to Undercity program!
     <tr>
         <td>6x8 CF tube</td>
         <td></td>
-        <td>4</td>
+        <td>1</td>
         <td></td>
         <td>17</td>
         <td></td>
-        <td>https://www.amazon.com/uxcell-Wrapped-Carbon-Airplane-Quadcopter/dp/B0D14QKDJV?th=1</td>
+        <td>https://windcatcherrc.com/product/carbon-fiber-tube-8mm-x-6mm-x-1000mm/</td>
         <td></td>
         <td></td>
         <td></td>
