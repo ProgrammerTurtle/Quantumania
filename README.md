@@ -18,7 +18,6 @@ This project was made for HackClub's Highway to Undercity program!
 
 
 
-
 <table>
     <tr>
         <td>Item</td>
@@ -127,11 +126,11 @@ This project was made for HackClub's Highway to Undercity program!
     <tr>
         <td>Nema 17 Stepper</td>
         <td></td>
-        <td>6</td>
+        <td>8</td>
         <td></td>
-        <td>62</td>
+        <td>120</td>
         <td></td>
-        <td>https://www.aliexpress.us/item/2255801033887365.html?</td>
+        <td>https://www.omc-stepperonline.com/full-d-cut-shaft-nema-17-bipolar-0-9deg-46ncm-65-1oz-in-2a-2-9v-42x42x48mm-4-wires-17hm19-2004s1</td>
         <td></td>
         <td></td>
         <td></td>
@@ -285,7 +284,7 @@ This project was made for HackClub's Highway to Undercity program!
         <td></td>
         <td>bulk</td>
         <td></td>
-        <td>3</td>
+        <td>0</td>
         <td></td>
         <td></td>
         <td></td>
@@ -346,13 +345,13 @@ This project was made for HackClub's Highway to Undercity program!
         <td></td>
     </tr>
     <tr>
-        <td>custom pcb bed heater</td>
+        <td>80mm 24v Silicone Heater</td>
         <td></td>
-        <td>1</td>
         <td></td>
-        <td>0</td>
         <td></td>
-        <td>sponsored</td>
+        <td>12</td>
+        <td></td>
+        <td>https://www.aliexpress.us/item/3256805151930305.html?</td>
         <td></td>
         <td></td>
         <td></td>
@@ -366,19 +365,6 @@ This project was made for HackClub's Highway to Undercity program!
         <td>12</td>
         <td></td>
         <td>https://www.aliexpress.us/item/3256804526701873.html?</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Silicone Bed Spacers</td>
-        <td></td>
-        <td>4</td>
-        <td></td>
-        <td>2.6</td>
-        <td></td>
-        <td>https://www.aliexpress.us/item/3256808456813121.html?</td>
         <td></td>
         <td></td>
         <td></td>
@@ -512,7 +498,7 @@ This project was made for HackClub's Highway to Undercity program!
         <td></td>
         <td></td>
         <td>alix cart total</td>
-        <td>195.88</td>
+        <td>126.7</td>
     </tr>
     <tr>
         <td></td>
@@ -546,7 +532,7 @@ This project was made for HackClub's Highway to Undercity program!
         <td></td>
         <td>actual total (alix discounts)</td>
         <td></td>
-        <td>342.88</td>
+        <td>348.7</td>
         <td></td>
         <td></td>
         <td></td>
