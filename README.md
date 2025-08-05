@@ -1,20 +1,46 @@
 # ModernQuantum
+
+<img width="514" height="378" alt="image" src="https://i.imgur.com/kzAsxzm.png" />
+
 A modernized quantum delta, taking advantage of all the recent advances in 3D printing technology. Featuring direct drive boombox, awd motion, and more. 
 
-100mm bed with a 110v mains heater and motion powered by awd NEMA 17 on 6mm belts. Electronics are fysetc duet clone boards running RRF. Lancer long hotend with a melt zone extender and custom mounting plate. Triple 8038 fan part cooling providing a whopping 372cfm of air. Direct drive boombox for ultra high acceleration extruder moves. 
-Just barely big enough to be useful - yet it will probably crank out a stupid fast speedbenchy. 
+## Main Features 
+
+- 100mm bed with a custom pcb heater 
+- Direct Drive BoomBox extruder by James Pray
+- Lancer Long Hotend + Melt Zone Extender (longer than Goliath)
+- Triple 124cfm 8038 axial fan part cooling
+- 2040 extrusions and MGN12C rails
+- Carbon Fiber Arms wirh MPJet Joints
+- RepRapFirmware
+
+
+
 
 This design was made with a lot of help from many members of the community, especially James Pray - the creator of the BoomBox extruder. Thank you so much. 
 
-Sponsored by:
+### Sponsored by:
+
 Polymaker
+
 Siraya Tech
+
 Fysetc
+
 HackClub
+
+
+[![Support me on Ko-fi!](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/turtlegod)
+
+
 
 This project was made for HackClub's Highway to Undercity program! 
 
-<img width="514" height="378" alt="image" src="https://i.imgur.com/kzAsxzm.png" />
+
+
+
+-------------------------------------
+
 
 
 
