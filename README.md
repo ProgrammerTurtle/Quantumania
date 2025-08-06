@@ -21,13 +21,18 @@ This design was made with a lot of help from many members of the community, espe
 
 ### Sponsored by:
 
-Polymaker
+[Polymaker](https://us.polymaker.com/)
 
-Siraya Tech
+[Siraya Tech](https://siraya.tech/)
 
-Fysetc
+[Fysetc](https://www.fysetc.com/)
 
-HackClub
+[HackClub](https://hackclub.com/)
+
+[OMC-Stepperonline](https://www.omc-stepperonline.com)
+
+
+Huge thank you to all of these amazing sponsors! This wouldn't be possible without your support.
 
 
 [![Support me on Ko-fi!](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/turtlegod)
