@@ -13,6 +13,7 @@ created_at: "2025-07-21"
 Today is the first day of designing my quantum delta project. Learning from the failures and successes of DoNotDelta, this printer aims to be a lot more functional in daily use. 
 
 I started off by designing the frame out of 2040 extrusions. This frame is inspired by a delta project made by the user of 84Dragon, so thats why the corner joints look that way. 
+My previous project, DoNotDelta, used a unibody printed piece for the top/bottom frame. While this is rigid and looks nice, it is awful to print and really limiting when it comes to servicing or making changes to the printer. I won't be doing that again.
 
 <img width="581" height="589" alt="image" src="https://github.com/user-attachments/assets/0c8e0522-857d-45b9-9947-e3a53302516f" />
 
@@ -22,7 +23,7 @@ After that, I made the motor modules. These are double shear, 15 tooth, and awd.
 
 <img width="842" height="805" alt="image" src="https://github.com/user-attachments/assets/89daa83c-14d6-4236-943d-5c1efe9c0cee" />
 
-For the final 3 hours, I did a bunch of research on available linear guide types and eventually decided on mgn12. These will be super stable at speed. 
+For the final 3 hours, I did a bunch of research on available linear guide types and eventually decided on mgn12. These will be super stable at speed. On donotdelta, I used linear rods. Those are pretty nice but it makes the carriages very bulky and makes having an extrusion based frame pretty awkward.
 
 <img width="657" height="685" alt="image" src="https://github.com/user-attachments/assets/612e7746-3df6-49d5-9d9a-74dd344d1561" />
 
@@ -55,10 +56,12 @@ I didn't sleep much today.
 
 I made the entire gantry referencing James Pray's delta effector and carriages. Carbon fiber tubing for the arms, carbon fiber sheet for the bed, printed effector. 
 Once again I forgot to take photos of the process. But, I used Deadlock's delta calculators to figure out the optimal arm length and then basically just trial and errored until I was comfortable with the design. 
+On DoNotDelta, I used printed arms rather than carbon fiber tubes - this was a mistake. Printed arms are heavy and very difficult to get consistent lengths with, whcih means the printer literally can't work correctly. At larger scales they are also way too weak. So, I am not doing that again either. 
+Another thing I learned from DoNotDelta is that the mpjet joints should be double sheared. Having the mount on only one side makes it easy for the joints to flex, causing innacuracy. 
 
 <img width="690" height="615" alt="image" src="https://github.com/user-attachments/assets/cbb0c258-857b-4df1-a0dd-4226019c5e8b" />
 
-The bed has a mains silicone heater on it. This will probably become a pcb heater eventually. 
+The bed has a 24v silicone heater on it. This will probably become a pcb heater eventually. PCB heaters are both significantly lighter and significantly more power dense as I can extend to the whole bed but just add holes for the mounting.
 
 With that, the printer was practically done besides a few finishing touches. Basically just giving everything clearance and mounting the endstops. 
 
@@ -67,7 +70,8 @@ With that, the printer was practically done besides a few finishing touches. Bas
 ### July 31, 2025 - 8 Hours Spent
 
 Today is the last day of highway so I really had to hurry things up. I had been journaling on a text file that isn't on the github as I wanted to keep this project private unil it was done.
-I basically just spent the whole time making/optimizing the BOM, making the GitHub, and generating renders. pretty happy with how this printer turned out for how fast I designed it.
+I basically just spent the whole time making/optimizing the BOM, making the GitHub, and generating renders. Pretty happy with how this printer turned out for how fast I designed it.
+The biggest change I made here was ordering frsme extrusions cut by misumi. With the tools I have available, it is very difficult to cut the extrusions square and at consistent lengths.
 
 
 
