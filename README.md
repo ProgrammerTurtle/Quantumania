@@ -1,4 +1,4 @@
-# ModernQuantum
+# Quantumania
 
 <img width="514" height="378" alt="image" src="https://i.imgur.com/kzAsxzm.png" />
 
